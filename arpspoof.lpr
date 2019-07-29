@@ -22,6 +22,8 @@ var
 
 
 
+{$R *.res}
+
 begin
   writeln('arpspoof 1.0 by erwan2212@gmail.com');
   writeln('arpspoof list-interfaces');
